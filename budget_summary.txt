@@ -1,0 +1,9 @@
+--- Budget Summary ---
+Income: $1000.00
+Rent: $200.00
+Utilities: $200.00
+Groceries: $200.00
+Transportation: $200.00
+Entertainment: $150.00
+Total Expenses: $950.00
+Remaining Balance: $50.00
